@@ -1,6 +1,6 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'https://ousainujabbi.com',
+  siteUrl: 'https://ousainujabbi.netlify.app',
   siteTitle: 'Ousainu Jabbi',
   siteDescription: 'Ousainu Jabbi Portfolio',
   author: 'Ousainu Jabbi',

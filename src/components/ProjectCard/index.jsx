@@ -8,7 +8,7 @@ const projectCard = (props) => {
       <div
         className={style.projectImg}
         style={{
-          backgroundImage: `url(${img})`,
+          backgroundImage: `url(${img}`,
         }}
       />
     </div>
