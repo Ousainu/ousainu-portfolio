@@ -1,7 +1,7 @@
 import React from 'react';
 import style from './projects.module.less';
 
-const TagCard = (props) => {
+const projectCard = (props) => {
   const { img } = props;
   return (
     <div className={style.projectCard}>
@@ -15,4 +15,4 @@ const TagCard = (props) => {
   );
 };
 
-export default TagCard;
+export default projectCard;
