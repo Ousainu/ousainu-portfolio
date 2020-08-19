@@ -7,11 +7,11 @@ import SEO from '../../Seo';
 const pageText = {
   paraOne: `Hello! My name is Ousainu. I'm a Software Engineer who is
     passionate about various web technologies. I like to experiment with different web
-    technologies. I have experience building projects with the NERD stack. Outside of tech,
-    building interesting projects, learning about new tech, playing basketball, and video games
+    technologies. I have experience building projects with the NERD stack. Travis CL is the tool I use for CI/CD.
+    Outside of tech, building interesting projects, learning about new tech, playing basketball, and video games
     are my hobbies. Check out my projects to see what I have been working on. Currently I work mostly with 
     Javascript technologies like ReactJS and NodeJS. I also have deployed applications keeping scalability in mind. 
-    Travis CL tool I use for CI/CD. I'm always a learner.`,
+    I'm always a learner.`,
 };
 
 const AboutMe = () => {
