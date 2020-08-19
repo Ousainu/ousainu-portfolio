@@ -18,14 +18,14 @@ const Projects = () => (
         </div>
         <Row gutter={[20, 20]}>
           <Col xs={24} sm={24} md={12} lg={8}>
-            <ProjectCard img="ekopiqueimg.png" name="ekopique" />
+            <ProjectCard img="ekopique.png" name="ekopique" />
             <div className="centerAlign box">
               <a href={ekopiqueSite} target="_blank" label="button" rel="noopener noreferrer"><FA name="globe" /></a>
               <a href={ekopiqueGithub} target="_blank" label="button" rel="noopener noreferrer"><FA name="github" /></a>
             </div>
           </Col>
           <Col xs={24} sm={24} md={12} lg={8}>
-            <ProjectCard img="graceshopperimg.png" name="graceshopper" />
+            <ProjectCard img="graceshopper.png" name="graceshopper" />
             <div className="centerAlign box">
               <a href={graceshopperGithub} target="_blank" label="button" rel="noopener noreferrer"><FA name="github" /></a>
             </div>
